@@ -1,0 +1,7 @@
+__pycache__/*
+datas/*
+simple_nn/*
+utils/__pycache__/*
+labels.txt
+w2v.model
+corpus.txt
